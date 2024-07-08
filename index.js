@@ -98,4 +98,9 @@ const game = {
     // Return rebounds of player with largest shoe size
     return playerWithLargestShoe.rebounds;
   }
-        
+        numPointsScored();
+        shoeSize();
+        teamColors(teamNames);
+        playerNumbers(teamNames);
+        playerStats();
+        bigShoeRebounds();
